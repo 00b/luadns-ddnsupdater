@@ -10,5 +10,5 @@ api_key = 'abc123xyz890'
 
 target_zone_name = 'zone.tld'
 target_record_name = 'hostname.zone.tld'
-target_type = 'A' `
+target_type = 'A'
 ```
