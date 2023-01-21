@@ -2,6 +2,8 @@
 import requests
 import json
 
+#API documentation https://luadns.com/api.html
+
 user_id = 'email@tld.com'
 api_key = 'abc123xyz890'
 
