@@ -4,9 +4,9 @@ I wanted a python script to update my luadns.com DNS records, but didn't want to
 
 update the following values in the script to match your account, api_key, zone, hostname and trarget type. 
 
-user_id = 'email@tld.com'
+`user_id = 'email@tld.com'
 api_key = 'abc123xyz890'
 
 target_zone_name = 'zone.tld'
 target_record_name = 'hostname.zone.tld'
-target_type = 'A' 
+target_type = 'A' `
